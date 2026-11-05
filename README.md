@@ -11,3 +11,5 @@ Tools: SQL, Tableau Public.
 Created an interactive marketing dashboard in Tableau Public, analyzed advertising campaign performance 
 based on key metrics, and prepared visualizations to support business decision-making.
 [Link to the dashboard](https://public.tableau.com/views/Project2Tableau_17830044626760/MarketingPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![dashboard](https://github.com/Omestya/Marketing_Campaign_Performance_Dashboard-/blob/main/marketing_campaign_dahsboard.png)
